@@ -7,3 +7,12 @@ app = Celery('productsweb')
 app.config_from_object('django.conf:settings', namespace='CELERY')
 
 app.autodiscover_tasks()
+
+
+app.conf.beat_schedule = {
+    'print_every_5_seconds': {
+        'task': 'simpleapp.tasks.printer',
+        'schedule': 20,          # переодичность выполнения
+        'args': (10,),     # конец счетчика
+    },
+}
