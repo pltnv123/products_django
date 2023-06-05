@@ -1,0 +1,356 @@
+[21/Apr/2023 15:29:13,588] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[21/Apr/2023 15:29:50,489] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[22/Apr/2023 12:44:55,677] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[22/Apr/2023 12:45:13,410] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[27/Apr/2023 15:28:52,972] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:29:01,789] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:29:46,234] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 15:29:47,316] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:29:51,289] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:29:52,242] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:30:10,843] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:30:11,746] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:31:02,393] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:31:03,308] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:31:41,337] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:31:42,416] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:32:02,611] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:32:03,708] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:32:15,210] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:32:16,273] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:34:41,829] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 15:34:42,905] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:35:02,114] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:35:03,108] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:35:21,988] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:35:22,991] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:35:47,251] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:35:48,643] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:36:05,382] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:36:06,465] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:36:22,485] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:36:24,052] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:38:03,222] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:38:04,309] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:39:58,761] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:41:16,700] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\models.py changed, reloading.]
+[27/Apr/2023 15:41:28,395] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:45:52,759] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 15:53:27,093] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:53:36,137] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:56:44,422] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:56:45,420] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:56:48,308] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:56:49,347] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:56:51,237] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:56:52,143] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:56:59,209] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:00,357] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:08,652] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:09,587] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:13,533] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:14,663] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:23,966] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:24,874] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:27,537] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:28,641] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:30,804] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:31,907] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:57:48,577] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:57:49,557] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 16:58:42,441] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[27/Apr/2023 16:58:43,381] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:00:16,118] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\urls.py changed, reloading.]
+[27/Apr/2023 17:00:17,057] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:02:21,627] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:04:32,657] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\urls.py changed, reloading.]
+[27/Apr/2023 17:04:33,612] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:04:57,712] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\urls.py changed, reloading.]
+[27/Apr/2023 17:04:58,717] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:05:33,542] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[27/Apr/2023 17:05:34,717] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[27/Apr/2023 17:07:18,902] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[27/Apr/2023 17:11:00,943] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[28/Apr/2023 17:06:28,448] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 11:49:37,687] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 12:29:08,606] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 13:45:10,146] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 15:39:13,903] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 15:46:22,881] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[29/Apr/2023 15:46:24,276] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 15:46:45,962] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 15:54:39,223] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 15:55:10,514] [ERROR] [log] [[35;1m[35;1mInternal Server Error: /accounts/signup/[0m[0m]
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\decorators.py", line 20, in wrap
+    resp = function(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\account\views.py", line 234, in dispatch
+    return super(SignupView, self).dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\account\views.py", line 77, in dispatch
+    response = super(RedirectAuthenticatedUserMixin, self).dispatch(
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\account\views.py", line 207, in dispatch
+    return super(CloseableSignupMixin, self).dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\account\views.py", line 105, in post
+    response = self.form_valid(form)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\allauth\account\views.py", line 248, in form_valid
+    self.user = form.save(self.request)
+  File "C:\dev\Django_project_products\products_django_\productsweb\accounts\forms.py", line 44, in save
+    mail_managers(
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\mail\__init__.py", line 144, in mail_managers
+    raise ValueError("The MANAGERS setting must be a list of 2-tuples.")
+ValueError: The MANAGERS setting must be a list of 2-tuples.
+[29/Apr/2023 16:00:36,082] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[29/Apr/2023 16:00:37,137] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[29/Apr/2023 16:04:42,744] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[30/Apr/2023 13:52:59,323] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[30/Apr/2023 15:13:52,003] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:44:22,496] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:44:36,504] [ERROR] [log] [[35;1m[35;1mInternal Server Error: /products/index2/[0m[0m]
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+AttributeError: type object 'RequestContext' has no attribute 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py", line 198, in get
+    return HttpResponse(render(request, 'index2.html', context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 736, in resolve
+    arg_vals.append(arg.resolve(context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [TIME_ZONE] in [{'True': True, 'False': False, 'None': None}, {}, {}, {'string': 'Hello world', 'timezones': ['Africa/Abidjan', 'Africa/Accra', 'Africa/Addis_Ababa', 'Africa/Algiers', 'Africa/Asmara', 'Africa/Bamako', 'Africa/Bangui', 'Africa/Banjul', 'Africa/Bissau', 'Africa/Blantyre', 'Africa/Brazzaville', 'Africa/Bujumbura', 'Africa/Cairo', 'Africa/Casablanca', 'Africa/Ceuta', 'Africa/Conakry', 'Africa/Dakar', 'Africa/Dar_es_Salaam', 'Africa/Djibouti', 'Africa/Douala', 'Africa/El_Aaiun', 'Africa/Freetown', 'Africa/Gaborone', 'Africa/Harare', 'Africa/Johannesburg', 'Africa/Juba', 'Africa/Kampala', 'Africa/Khartoum', 'Africa/Kigali', 'Africa/Kinshasa', 'Africa/Lagos', 'Africa/Libreville', 'Africa/Lome', 'Africa/Luanda', 'Africa/Lubumbashi', 'Africa/Lusaka', 'Africa/Malabo', 'Africa/Maputo', 'Africa/Maseru', 'Africa/Mbabane', 'Africa/Mogadishu', 'Africa/Monrovia', 'Africa/Nairobi', 'Africa/Ndjamena', 'Africa/Niamey', 'Africa/Nouakchott', 'Africa/Ouagadougou', 'Africa/Porto-Novo', 'Africa/Sao_Tome', 'Africa/Tripoli', 'Africa/Tunis', 'Africa/Windhoek', 'America/Adak', 'America/Anchorage', 'America/Anguilla', 'America/Antigua', 'America/Araguaina', 'America/Argentina/Buenos_Aires', 'America/Argentina/Catamarca', 'America/Argentina/Cordoba', 'America/Argentina/Jujuy', 'America/Argentina/La_Rioja', 'America/Argentina/Mendoza', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Salta', 'America/Argentina/San_Juan', 'America/Argentina/San_Luis', 'America/Argentina/Tucuman', 'America/Argentina/Ushuaia', 'America/Aruba', 'America/Asuncion', 'America/Atikokan', 'America/Bahia', 'America/Bahia_Banderas', 'America/Barbados', 'America/Belem', 'America/Belize', 'America/Blanc-Sablon', 'America/Boa_Vista', 'America/Bogota', 'America/Boise', 'America/Cambridge_Bay', 'America/Campo_Grande', 'America/Cancun', 'America/Caracas', 'America/Cayenne', 'America/Cayman', 'America/Chicago', 'America/Chihuahua', 'America/Ciudad_Juarez', 'America/Costa_Rica', 'America/Creston', 'America/Cuiaba', 'America/Curacao', 'America/Danmarkshavn', 'America/Dawson', 'America/Dawson_Creek', 'America/Denver', 'America/Detroit', 'America/Dominica', 'America/Edmonton', 'America/Eirunepe', 'America/El_Salvador', 'America/Fort_Nelson', 'America/Fortaleza', 'America/Glace_Bay', 'America/Goose_Bay', 'America/Grand_Turk', 'America/Grenada', 'America/Guadeloupe', 'America/Guatemala', 'America/Guayaquil', 'America/Guyana', 'America/Halifax', 'America/Havana', 'America/Hermosillo', 'America/Indiana/Indianapolis', 'America/Indiana/Knox', 'America/Indiana/Marengo', 'America/Indiana/Petersburg', 'America/Indiana/Tell_City', 'America/Indiana/Vevay', 'America/Indiana/Vincennes', 'America/Indiana/Winamac', 'America/Inuvik', 'America/Iqaluit', 'America/Jamaica', 'America/Juneau', 'America/Kentucky/Louisville', 'America/Kentucky/Monticello', 'America/Kralendijk', 'America/La_Paz', 'America/Lima', 'America/Los_Angeles', 'America/Lower_Princes', 'America/Maceio', 'America/Managua', 'America/Manaus', 'America/Marigot', 'America/Martinique', 'America/Matamoros', 'America/Mazatlan', 'America/Menominee', 'America/Merida', 'America/Metlakatla', 'America/Mexico_City', 'America/Miquelon', 'America/Moncton', 'America/Monterrey', 'America/Montevideo', 'America/Montserrat', 'America/Nassau', 'America/New_York', 'America/Nome', 'America/Noronha', 'America/North_Dakota/Beulah', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Nuuk', 'America/Ojinaga', 'America/Panama', 'America/Paramaribo', 'America/Phoenix', 'America/Port-au-Prince', 'America/Port_of_Spain', 'America/Porto_Velho', 'America/Puerto_Rico', 'America/Punta_Arenas', 'America/Rankin_Inlet', 'America/Recife', 'America/Regina', 'America/Resolute', 'America/Rio_Branco', 'America/Santarem', 'America/Santiago', 'America/Santo_Domingo', 'America/Sao_Paulo', 'America/Scoresbysund', 'America/Sitka', 'America/St_Barthelemy', 'America/St_Johns', 'America/St_Kitts', 'America/St_Lucia', 'America/St_Thomas', 'America/St_Vincent', 'America/Swift_Current', 'America/Tegucigalpa', 'America/Thule', 'America/Tijuana', 'America/Toronto', 'America/Tortola', 'America/Vancouver', 'America/Whitehorse', 'America/Winnipeg', 'America/Yakutat', 'America/Yellowknife', 'Antarctica/Casey', 'Antarctica/Davis', 'Antarctica/DumontDUrville', 'Antarctica/Macquarie', 'Antarctica/Mawson', 'Antarctica/McMurdo', 'Antarctica/Palmer', 'Antarctica/Rothera', 'Antarctica/Syowa', 'Antarctica/Troll', 'Antarctica/Vostok', 'Arctic/Longyearbyen', 'Asia/Aden', 'Asia/Almaty', 'Asia/Amman', 'Asia/Anadyr', 'Asia/Aqtau', 'Asia/Aqtobe', 'Asia/Ashgabat', 'Asia/Atyrau', 'Asia/Baghdad', 'Asia/Bahrain', 'Asia/Baku', 'Asia/Bangkok', 'Asia/Barnaul', 'Asia/Beirut', 'Asia/Bishkek', 'Asia/Brunei', 'Asia/Chita', 'Asia/Choibalsan', 'Asia/Colombo', 'Asia/Damascus', 'Asia/Dhaka', 'Asia/Dili', 'Asia/Dubai', 'Asia/Dushanbe', 'Asia/Famagusta', 'Asia/Gaza', 'Asia/Hebron', 'Asia/Ho_Chi_Minh', 'Asia/Hong_Kong', 'Asia/Hovd', 'Asia/Irkutsk', 'Asia/Jakarta', 'Asia/Jayapura', 'Asia/Jerusalem', 'Asia/Kabul', 'Asia/Kamchatka', 'Asia/Karachi', 'Asia/Kathmandu', 'Asia/Khandyga', 'Asia/Kolkata', 'Asia/Krasnoyarsk', 'Asia/Kuala_Lumpur', 'Asia/Kuching', 'Asia/Kuwait', 'Asia/Macau', 'Asia/Magadan', 'Asia/Makassar', 'Asia/Manila', 'Asia/Muscat', 'Asia/Nicosia', 'Asia/Novokuznetsk', 'Asia/Novosibirsk', 'Asia/Omsk', 'Asia/Oral', 'Asia/Phnom_Penh', 'Asia/Pontianak', 'Asia/Pyongyang', 'Asia/Qatar', 'Asia/Qostanay', 'Asia/Qyzylorda', 'Asia/Riyadh', 'Asia/Sakhalin', 'Asia/Samarkand', 'Asia/Seoul', 'Asia/Shanghai', 'Asia/Singapore', 'Asia/Srednekolymsk', 'Asia/Taipei', 'Asia/Tashkent', 'Asia/Tbilisi', 'Asia/Tehran', 'Asia/Thimphu', 'Asia/Tokyo', 'Asia/Tomsk', 'Asia/Ulaanbaatar', 'Asia/Urumqi', 'Asia/Ust-Nera', 'Asia/Vientiane', 'Asia/Vladivostok', 'Asia/Yakutsk', 'Asia/Yangon', 'Asia/Yekaterinburg', 'Asia/Yerevan', 'Atlantic/Azores', 'Atlantic/Bermuda', 'Atlantic/Canary', 'Atlantic/Cape_Verde', 'Atlantic/Faroe', 'Atlantic/Madeira', 'Atlantic/Reykjavik', 'Atlantic/South_Georgia', 'Atlantic/St_Helena', 'Atlantic/Stanley', 'Australia/Adelaide', 'Australia/Brisbane', 'Australia/Broken_Hill', 'Australia/Darwin', 'Australia/Eucla', 'Australia/Hobart', 'Australia/Lindeman', 'Australia/Lord_Howe', 'Australia/Melbourne', 'Australia/Perth', 'Australia/Sydney', 'Canada/Atlantic', 'Canada/Central', 'Canada/Eastern', 'Canada/Mountain', 'Canada/Newfoundland', 'Canada/Pacific', 'Europe/Amsterdam', 'Europe/Andorra', 'Europe/Astrakhan', 'Europe/Athens', 'Europe/Belgrade', 'Europe/Berlin', 'Europe/Bratislava', 'Europe/Brussels', 'Europe/Bucharest', 'Europe/Budapest', 'Europe/Busingen', 'Europe/Chisinau', 'Europe/Copenhagen', 'Europe/Dublin', 'Europe/Gibraltar', 'Europe/Guernsey', 'Europe/Helsinki', 'Europe/Isle_of_Man', 'Europe/Istanbul', 'Europe/Jersey', 'Europe/Kaliningrad', 'Europe/Kirov', 'Europe/Kyiv', 'Europe/Lisbon', 'Europe/Ljubljana', 'Europe/London', 'Europe/Luxembourg', 'Europe/Madrid', 'Europe/Malta', 'Europe/Mariehamn', 'Europe/Minsk', 'Europe/Monaco', 'Europe/Moscow', 'Europe/Oslo', 'Europe/Paris', 'Europe/Podgorica', 'Europe/Prague', 'Europe/Riga', 'Europe/Rome', 'Europe/Samara', 'Europe/San_Marino', 'Europe/Sarajevo', 'Europe/Saratov', 'Europe/Simferopol', 'Europe/Skopje', 'Europe/Sofia', 'Europe/Stockholm', 'Europe/Tallinn', 'Europe/Tirane', 'Europe/Ulyanovsk', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna', 'Europe/Vilnius', 'Europe/Volgograd', 'Europe/Warsaw', 'Europe/Zagreb', 'Europe/Zurich', 'GMT', 'Indian/Antananarivo', 'Indian/Chagos', 'Indian/Christmas', 'Indian/Cocos', 'Indian/Comoro', 'Indian/Kerguelen', 'Indian/Mahe', 'Indian/Maldives', 'Indian/Mauritius', 'Indian/Mayotte', 'Indian/Reunion', 'Pacific/Apia', 'Pacific/Auckland', 'Pacific/Bougainville', 'Pacific/Chatham', 'Pacific/Chuuk', 'Pacific/Easter', 'Pacific/Efate', 'Pacific/Fakaofo', 'Pacific/Fiji', 'Pacific/Funafuti', 'Pacific/Galapagos', 'Pacific/Gambier', 'Pacific/Guadalcanal', 'Pacific/Guam', 'Pacific/Honolulu', 'Pacific/Kanton', 'Pacific/Kiritimati', 'Pacific/Kosrae', 'Pacific/Kwajalein', 'Pacific/Majuro', 'Pacific/Marquesas', 'Pacific/Midway', 'Pacific/Nauru', 'Pacific/Niue', 'Pacific/Norfolk', 'Pacific/Noumea', 'Pacific/Pago_Pago', 'Pacific/Palau', 'Pacific/Pitcairn', 'Pacific/Pohnpei', 'Pacific/Port_Moresby', 'Pacific/Rarotonga', 'Pacific/Saipan', 'Pacific/Tahiti', 'Pacific/Tarawa', 'Pacific/Tongatapu', 'Pacific/Wake', 'Pacific/Wallis', 'US/Alaska', 'US/Arizona', 'US/Central', 'US/Eastern', 'US/Hawaii', 'US/Mountain', 'US/Pacific', 'UTC'], 'LANGUAGE_CODE': 'en-us', 'LANGUAGES': [('en-us', 'English'), ('ru', 'Русский')], 'languages': [{'bidi': False, 'code': 'en', 'name': 'English', 'name_local': 'English', 'name_translated': 'English'}, {'bidi': False, 'code': 'ru', 'name': 'Russian', 'name_local': 'Русский', 'name_translated': 'Russian'}]}]
+[01/May/2023 13:49:32,322] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\middleware.py changed, reloading.]
+[01/May/2023 13:49:33,260] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:53:07,564] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 13:53:08,882] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:53:35,304] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 13:53:36,360] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:53:40,471] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 13:53:41,640] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 13:54:27,250] [ERROR] [log] [[35;1m[35;1mInternal Server Error: /products/index2/[0m[0m]
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+AttributeError: type object 'RequestContext' has no attribute 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py", line 199, in get
+    return HttpResponse(render(request, 'index2.html', context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 736, in resolve
+    arg_vals.append(arg.resolve(context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [TIME_ZONE] in [{'True': True, 'False': False, 'None': None}, {}, {}, {'string': 'Привет мир', 'current_time': datetime.datetime(2023, 5, 1, 10, 54, 27, 198446, tzinfo=datetime.timezone.utc), 'timezones': ['Africa/Abidjan', 'Africa/Accra', 'Africa/Addis_Ababa', 'Africa/Algiers', 'Africa/Asmara', 'Africa/Bamako', 'Africa/Bangui', 'Africa/Banjul', 'Africa/Bissau', 'Africa/Blantyre', 'Africa/Brazzaville', 'Africa/Bujumbura', 'Africa/Cairo', 'Africa/Casablanca', 'Africa/Ceuta', 'Africa/Conakry', 'Africa/Dakar', 'Africa/Dar_es_Salaam', 'Africa/Djibouti', 'Africa/Douala', 'Africa/El_Aaiun', 'Africa/Freetown', 'Africa/Gaborone', 'Africa/Harare', 'Africa/Johannesburg', 'Africa/Juba', 'Africa/Kampala', 'Africa/Khartoum', 'Africa/Kigali', 'Africa/Kinshasa', 'Africa/Lagos', 'Africa/Libreville', 'Africa/Lome', 'Africa/Luanda', 'Africa/Lubumbashi', 'Africa/Lusaka', 'Africa/Malabo', 'Africa/Maputo', 'Africa/Maseru', 'Africa/Mbabane', 'Africa/Mogadishu', 'Africa/Monrovia', 'Africa/Nairobi', 'Africa/Ndjamena', 'Africa/Niamey', 'Africa/Nouakchott', 'Africa/Ouagadougou', 'Africa/Porto-Novo', 'Africa/Sao_Tome', 'Africa/Tripoli', 'Africa/Tunis', 'Africa/Windhoek', 'America/Adak', 'America/Anchorage', 'America/Anguilla', 'America/Antigua', 'America/Araguaina', 'America/Argentina/Buenos_Aires', 'America/Argentina/Catamarca', 'America/Argentina/Cordoba', 'America/Argentina/Jujuy', 'America/Argentina/La_Rioja', 'America/Argentina/Mendoza', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Salta', 'America/Argentina/San_Juan', 'America/Argentina/San_Luis', 'America/Argentina/Tucuman', 'America/Argentina/Ushuaia', 'America/Aruba', 'America/Asuncion', 'America/Atikokan', 'America/Bahia', 'America/Bahia_Banderas', 'America/Barbados', 'America/Belem', 'America/Belize', 'America/Blanc-Sablon', 'America/Boa_Vista', 'America/Bogota', 'America/Boise', 'America/Cambridge_Bay', 'America/Campo_Grande', 'America/Cancun', 'America/Caracas', 'America/Cayenne', 'America/Cayman', 'America/Chicago', 'America/Chihuahua', 'America/Ciudad_Juarez', 'America/Costa_Rica', 'America/Creston', 'America/Cuiaba', 'America/Curacao', 'America/Danmarkshavn', 'America/Dawson', 'America/Dawson_Creek', 'America/Denver', 'America/Detroit', 'America/Dominica', 'America/Edmonton', 'America/Eirunepe', 'America/El_Salvador', 'America/Fort_Nelson', 'America/Fortaleza', 'America/Glace_Bay', 'America/Goose_Bay', 'America/Grand_Turk', 'America/Grenada', 'America/Guadeloupe', 'America/Guatemala', 'America/Guayaquil', 'America/Guyana', 'America/Halifax', 'America/Havana', 'America/Hermosillo', 'America/Indiana/Indianapolis', 'America/Indiana/Knox', 'America/Indiana/Marengo', 'America/Indiana/Petersburg', 'America/Indiana/Tell_City', 'America/Indiana/Vevay', 'America/Indiana/Vincennes', 'America/Indiana/Winamac', 'America/Inuvik', 'America/Iqaluit', 'America/Jamaica', 'America/Juneau', 'America/Kentucky/Louisville', 'America/Kentucky/Monticello', 'America/Kralendijk', 'America/La_Paz', 'America/Lima', 'America/Los_Angeles', 'America/Lower_Princes', 'America/Maceio', 'America/Managua', 'America/Manaus', 'America/Marigot', 'America/Martinique', 'America/Matamoros', 'America/Mazatlan', 'America/Menominee', 'America/Merida', 'America/Metlakatla', 'America/Mexico_City', 'America/Miquelon', 'America/Moncton', 'America/Monterrey', 'America/Montevideo', 'America/Montserrat', 'America/Nassau', 'America/New_York', 'America/Nome', 'America/Noronha', 'America/North_Dakota/Beulah', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Nuuk', 'America/Ojinaga', 'America/Panama', 'America/Paramaribo', 'America/Phoenix', 'America/Port-au-Prince', 'America/Port_of_Spain', 'America/Porto_Velho', 'America/Puerto_Rico', 'America/Punta_Arenas', 'America/Rankin_Inlet', 'America/Recife', 'America/Regina', 'America/Resolute', 'America/Rio_Branco', 'America/Santarem', 'America/Santiago', 'America/Santo_Domingo', 'America/Sao_Paulo', 'America/Scoresbysund', 'America/Sitka', 'America/St_Barthelemy', 'America/St_Johns', 'America/St_Kitts', 'America/St_Lucia', 'America/St_Thomas', 'America/St_Vincent', 'America/Swift_Current', 'America/Tegucigalpa', 'America/Thule', 'America/Tijuana', 'America/Toronto', 'America/Tortola', 'America/Vancouver', 'America/Whitehorse', 'America/Winnipeg', 'America/Yakutat', 'America/Yellowknife', 'Antarctica/Casey', 'Antarctica/Davis', 'Antarctica/DumontDUrville', 'Antarctica/Macquarie', 'Antarctica/Mawson', 'Antarctica/McMurdo', 'Antarctica/Palmer', 'Antarctica/Rothera', 'Antarctica/Syowa', 'Antarctica/Troll', 'Antarctica/Vostok', 'Arctic/Longyearbyen', 'Asia/Aden', 'Asia/Almaty', 'Asia/Amman', 'Asia/Anadyr', 'Asia/Aqtau', 'Asia/Aqtobe', 'Asia/Ashgabat', 'Asia/Atyrau', 'Asia/Baghdad', 'Asia/Bahrain', 'Asia/Baku', 'Asia/Bangkok', 'Asia/Barnaul', 'Asia/Beirut', 'Asia/Bishkek', 'Asia/Brunei', 'Asia/Chita', 'Asia/Choibalsan', 'Asia/Colombo', 'Asia/Damascus', 'Asia/Dhaka', 'Asia/Dili', 'Asia/Dubai', 'Asia/Dushanbe', 'Asia/Famagusta', 'Asia/Gaza', 'Asia/Hebron', 'Asia/Ho_Chi_Minh', 'Asia/Hong_Kong', 'Asia/Hovd', 'Asia/Irkutsk', 'Asia/Jakarta', 'Asia/Jayapura', 'Asia/Jerusalem', 'Asia/Kabul', 'Asia/Kamchatka', 'Asia/Karachi', 'Asia/Kathmandu', 'Asia/Khandyga', 'Asia/Kolkata', 'Asia/Krasnoyarsk', 'Asia/Kuala_Lumpur', 'Asia/Kuching', 'Asia/Kuwait', 'Asia/Macau', 'Asia/Magadan', 'Asia/Makassar', 'Asia/Manila', 'Asia/Muscat', 'Asia/Nicosia', 'Asia/Novokuznetsk', 'Asia/Novosibirsk', 'Asia/Omsk', 'Asia/Oral', 'Asia/Phnom_Penh', 'Asia/Pontianak', 'Asia/Pyongyang', 'Asia/Qatar', 'Asia/Qostanay', 'Asia/Qyzylorda', 'Asia/Riyadh', 'Asia/Sakhalin', 'Asia/Samarkand', 'Asia/Seoul', 'Asia/Shanghai', 'Asia/Singapore', 'Asia/Srednekolymsk', 'Asia/Taipei', 'Asia/Tashkent', 'Asia/Tbilisi', 'Asia/Tehran', 'Asia/Thimphu', 'Asia/Tokyo', 'Asia/Tomsk', 'Asia/Ulaanbaatar', 'Asia/Urumqi', 'Asia/Ust-Nera', 'Asia/Vientiane', 'Asia/Vladivostok', 'Asia/Yakutsk', 'Asia/Yangon', 'Asia/Yekaterinburg', 'Asia/Yerevan', 'Atlantic/Azores', 'Atlantic/Bermuda', 'Atlantic/Canary', 'Atlantic/Cape_Verde', 'Atlantic/Faroe', 'Atlantic/Madeira', 'Atlantic/Reykjavik', 'Atlantic/South_Georgia', 'Atlantic/St_Helena', 'Atlantic/Stanley', 'Australia/Adelaide', 'Australia/Brisbane', 'Australia/Broken_Hill', 'Australia/Darwin', 'Australia/Eucla', 'Australia/Hobart', 'Australia/Lindeman', 'Australia/Lord_Howe', 'Australia/Melbourne', 'Australia/Perth', 'Australia/Sydney', 'Canada/Atlantic', 'Canada/Central', 'Canada/Eastern', 'Canada/Mountain', 'Canada/Newfoundland', 'Canada/Pacific', 'Europe/Amsterdam', 'Europe/Andorra', 'Europe/Astrakhan', 'Europe/Athens', 'Europe/Belgrade', 'Europe/Berlin', 'Europe/Bratislava', 'Europe/Brussels', 'Europe/Bucharest', 'Europe/Budapest', 'Europe/Busingen', 'Europe/Chisinau', 'Europe/Copenhagen', 'Europe/Dublin', 'Europe/Gibraltar', 'Europe/Guernsey', 'Europe/Helsinki', 'Europe/Isle_of_Man', 'Europe/Istanbul', 'Europe/Jersey', 'Europe/Kaliningrad', 'Europe/Kirov', 'Europe/Kyiv', 'Europe/Lisbon', 'Europe/Ljubljana', 'Europe/London', 'Europe/Luxembourg', 'Europe/Madrid', 'Europe/Malta', 'Europe/Mariehamn', 'Europe/Minsk', 'Europe/Monaco', 'Europe/Moscow', 'Europe/Oslo', 'Europe/Paris', 'Europe/Podgorica', 'Europe/Prague', 'Europe/Riga', 'Europe/Rome', 'Europe/Samara', 'Europe/San_Marino', 'Europe/Sarajevo', 'Europe/Saratov', 'Europe/Simferopol', 'Europe/Skopje', 'Europe/Sofia', 'Europe/Stockholm', 'Europe/Tallinn', 'Europe/Tirane', 'Europe/Ulyanovsk', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna', 'Europe/Vilnius', 'Europe/Volgograd', 'Europe/Warsaw', 'Europe/Zagreb', 'Europe/Zurich', 'GMT', 'Indian/Antananarivo', 'Indian/Chagos', 'Indian/Christmas', 'Indian/Cocos', 'Indian/Comoro', 'Indian/Kerguelen', 'Indian/Mahe', 'Indian/Maldives', 'Indian/Mauritius', 'Indian/Mayotte', 'Indian/Reunion', 'Pacific/Apia', 'Pacific/Auckland', 'Pacific/Bougainville', 'Pacific/Chatham', 'Pacific/Chuuk', 'Pacific/Easter', 'Pacific/Efate', 'Pacific/Fakaofo', 'Pacific/Fiji', 'Pacific/Funafuti', 'Pacific/Galapagos', 'Pacific/Gambier', 'Pacific/Guadalcanal', 'Pacific/Guam', 'Pacific/Honolulu', 'Pacific/Kanton', 'Pacific/Kiritimati', 'Pacific/Kosrae', 'Pacific/Kwajalein', 'Pacific/Majuro', 'Pacific/Marquesas', 'Pacific/Midway', 'Pacific/Nauru', 'Pacific/Niue', 'Pacific/Norfolk', 'Pacific/Noumea', 'Pacific/Pago_Pago', 'Pacific/Palau', 'Pacific/Pitcairn', 'Pacific/Pohnpei', 'Pacific/Port_Moresby', 'Pacific/Rarotonga', 'Pacific/Saipan', 'Pacific/Tahiti', 'Pacific/Tarawa', 'Pacific/Tongatapu', 'Pacific/Wake', 'Pacific/Wallis', 'US/Alaska', 'US/Arizona', 'US/Central', 'US/Eastern', 'US/Hawaii', 'US/Mountain', 'US/Pacific', 'UTC'], 'LANGUAGE_CODE': 'ru', 'LANGUAGES': [('en-us', 'Английский'), ('ru', 'Русский')], 'languages': [{'bidi': False, 'code': 'en', 'name': 'English', 'name_local': 'English', 'name_translated': 'Английский'}, {'bidi': False, 'code': 'ru', 'name': 'Russian', 'name_local': 'Русский', 'name_translated': 'Русский'}]}]
+[01/May/2023 13:54:34,049] [ERROR] [log] [[35;1m[35;1mInternal Server Error: /products/index2/[0m[0m]
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+AttributeError: type object 'RequestContext' has no attribute 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'TIME_ZONE'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py", line 199, in get
+    return HttpResponse(render(request, 'index2.html', context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 736, in resolve
+    arg_vals.append(arg.resolve(context))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [TIME_ZONE] in [{'True': True, 'False': False, 'None': None}, {}, {}, {'string': 'Привет мир', 'current_time': datetime.datetime(2023, 5, 1, 10, 54, 34, 6776, tzinfo=datetime.timezone.utc), 'timezones': ['Africa/Abidjan', 'Africa/Accra', 'Africa/Addis_Ababa', 'Africa/Algiers', 'Africa/Asmara', 'Africa/Bamako', 'Africa/Bangui', 'Africa/Banjul', 'Africa/Bissau', 'Africa/Blantyre', 'Africa/Brazzaville', 'Africa/Bujumbura', 'Africa/Cairo', 'Africa/Casablanca', 'Africa/Ceuta', 'Africa/Conakry', 'Africa/Dakar', 'Africa/Dar_es_Salaam', 'Africa/Djibouti', 'Africa/Douala', 'Africa/El_Aaiun', 'Africa/Freetown', 'Africa/Gaborone', 'Africa/Harare', 'Africa/Johannesburg', 'Africa/Juba', 'Africa/Kampala', 'Africa/Khartoum', 'Africa/Kigali', 'Africa/Kinshasa', 'Africa/Lagos', 'Africa/Libreville', 'Africa/Lome', 'Africa/Luanda', 'Africa/Lubumbashi', 'Africa/Lusaka', 'Africa/Malabo', 'Africa/Maputo', 'Africa/Maseru', 'Africa/Mbabane', 'Africa/Mogadishu', 'Africa/Monrovia', 'Africa/Nairobi', 'Africa/Ndjamena', 'Africa/Niamey', 'Africa/Nouakchott', 'Africa/Ouagadougou', 'Africa/Porto-Novo', 'Africa/Sao_Tome', 'Africa/Tripoli', 'Africa/Tunis', 'Africa/Windhoek', 'America/Adak', 'America/Anchorage', 'America/Anguilla', 'America/Antigua', 'America/Araguaina', 'America/Argentina/Buenos_Aires', 'America/Argentina/Catamarca', 'America/Argentina/Cordoba', 'America/Argentina/Jujuy', 'America/Argentina/La_Rioja', 'America/Argentina/Mendoza', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Salta', 'America/Argentina/San_Juan', 'America/Argentina/San_Luis', 'America/Argentina/Tucuman', 'America/Argentina/Ushuaia', 'America/Aruba', 'America/Asuncion', 'America/Atikokan', 'America/Bahia', 'America/Bahia_Banderas', 'America/Barbados', 'America/Belem', 'America/Belize', 'America/Blanc-Sablon', 'America/Boa_Vista', 'America/Bogota', 'America/Boise', 'America/Cambridge_Bay', 'America/Campo_Grande', 'America/Cancun', 'America/Caracas', 'America/Cayenne', 'America/Cayman', 'America/Chicago', 'America/Chihuahua', 'America/Ciudad_Juarez', 'America/Costa_Rica', 'America/Creston', 'America/Cuiaba', 'America/Curacao', 'America/Danmarkshavn', 'America/Dawson', 'America/Dawson_Creek', 'America/Denver', 'America/Detroit', 'America/Dominica', 'America/Edmonton', 'America/Eirunepe', 'America/El_Salvador', 'America/Fort_Nelson', 'America/Fortaleza', 'America/Glace_Bay', 'America/Goose_Bay', 'America/Grand_Turk', 'America/Grenada', 'America/Guadeloupe', 'America/Guatemala', 'America/Guayaquil', 'America/Guyana', 'America/Halifax', 'America/Havana', 'America/Hermosillo', 'America/Indiana/Indianapolis', 'America/Indiana/Knox', 'America/Indiana/Marengo', 'America/Indiana/Petersburg', 'America/Indiana/Tell_City', 'America/Indiana/Vevay', 'America/Indiana/Vincennes', 'America/Indiana/Winamac', 'America/Inuvik', 'America/Iqaluit', 'America/Jamaica', 'America/Juneau', 'America/Kentucky/Louisville', 'America/Kentucky/Monticello', 'America/Kralendijk', 'America/La_Paz', 'America/Lima', 'America/Los_Angeles', 'America/Lower_Princes', 'America/Maceio', 'America/Managua', 'America/Manaus', 'America/Marigot', 'America/Martinique', 'America/Matamoros', 'America/Mazatlan', 'America/Menominee', 'America/Merida', 'America/Metlakatla', 'America/Mexico_City', 'America/Miquelon', 'America/Moncton', 'America/Monterrey', 'America/Montevideo', 'America/Montserrat', 'America/Nassau', 'America/New_York', 'America/Nome', 'America/Noronha', 'America/North_Dakota/Beulah', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Nuuk', 'America/Ojinaga', 'America/Panama', 'America/Paramaribo', 'America/Phoenix', 'America/Port-au-Prince', 'America/Port_of_Spain', 'America/Porto_Velho', 'America/Puerto_Rico', 'America/Punta_Arenas', 'America/Rankin_Inlet', 'America/Recife', 'America/Regina', 'America/Resolute', 'America/Rio_Branco', 'America/Santarem', 'America/Santiago', 'America/Santo_Domingo', 'America/Sao_Paulo', 'America/Scoresbysund', 'America/Sitka', 'America/St_Barthelemy', 'America/St_Johns', 'America/St_Kitts', 'America/St_Lucia', 'America/St_Thomas', 'America/St_Vincent', 'America/Swift_Current', 'America/Tegucigalpa', 'America/Thule', 'America/Tijuana', 'America/Toronto', 'America/Tortola', 'America/Vancouver', 'America/Whitehorse', 'America/Winnipeg', 'America/Yakutat', 'America/Yellowknife', 'Antarctica/Casey', 'Antarctica/Davis', 'Antarctica/DumontDUrville', 'Antarctica/Macquarie', 'Antarctica/Mawson', 'Antarctica/McMurdo', 'Antarctica/Palmer', 'Antarctica/Rothera', 'Antarctica/Syowa', 'Antarctica/Troll', 'Antarctica/Vostok', 'Arctic/Longyearbyen', 'Asia/Aden', 'Asia/Almaty', 'Asia/Amman', 'Asia/Anadyr', 'Asia/Aqtau', 'Asia/Aqtobe', 'Asia/Ashgabat', 'Asia/Atyrau', 'Asia/Baghdad', 'Asia/Bahrain', 'Asia/Baku', 'Asia/Bangkok', 'Asia/Barnaul', 'Asia/Beirut', 'Asia/Bishkek', 'Asia/Brunei', 'Asia/Chita', 'Asia/Choibalsan', 'Asia/Colombo', 'Asia/Damascus', 'Asia/Dhaka', 'Asia/Dili', 'Asia/Dubai', 'Asia/Dushanbe', 'Asia/Famagusta', 'Asia/Gaza', 'Asia/Hebron', 'Asia/Ho_Chi_Minh', 'Asia/Hong_Kong', 'Asia/Hovd', 'Asia/Irkutsk', 'Asia/Jakarta', 'Asia/Jayapura', 'Asia/Jerusalem', 'Asia/Kabul', 'Asia/Kamchatka', 'Asia/Karachi', 'Asia/Kathmandu', 'Asia/Khandyga', 'Asia/Kolkata', 'Asia/Krasnoyarsk', 'Asia/Kuala_Lumpur', 'Asia/Kuching', 'Asia/Kuwait', 'Asia/Macau', 'Asia/Magadan', 'Asia/Makassar', 'Asia/Manila', 'Asia/Muscat', 'Asia/Nicosia', 'Asia/Novokuznetsk', 'Asia/Novosibirsk', 'Asia/Omsk', 'Asia/Oral', 'Asia/Phnom_Penh', 'Asia/Pontianak', 'Asia/Pyongyang', 'Asia/Qatar', 'Asia/Qostanay', 'Asia/Qyzylorda', 'Asia/Riyadh', 'Asia/Sakhalin', 'Asia/Samarkand', 'Asia/Seoul', 'Asia/Shanghai', 'Asia/Singapore', 'Asia/Srednekolymsk', 'Asia/Taipei', 'Asia/Tashkent', 'Asia/Tbilisi', 'Asia/Tehran', 'Asia/Thimphu', 'Asia/Tokyo', 'Asia/Tomsk', 'Asia/Ulaanbaatar', 'Asia/Urumqi', 'Asia/Ust-Nera', 'Asia/Vientiane', 'Asia/Vladivostok', 'Asia/Yakutsk', 'Asia/Yangon', 'Asia/Yekaterinburg', 'Asia/Yerevan', 'Atlantic/Azores', 'Atlantic/Bermuda', 'Atlantic/Canary', 'Atlantic/Cape_Verde', 'Atlantic/Faroe', 'Atlantic/Madeira', 'Atlantic/Reykjavik', 'Atlantic/South_Georgia', 'Atlantic/St_Helena', 'Atlantic/Stanley', 'Australia/Adelaide', 'Australia/Brisbane', 'Australia/Broken_Hill', 'Australia/Darwin', 'Australia/Eucla', 'Australia/Hobart', 'Australia/Lindeman', 'Australia/Lord_Howe', 'Australia/Melbourne', 'Australia/Perth', 'Australia/Sydney', 'Canada/Atlantic', 'Canada/Central', 'Canada/Eastern', 'Canada/Mountain', 'Canada/Newfoundland', 'Canada/Pacific', 'Europe/Amsterdam', 'Europe/Andorra', 'Europe/Astrakhan', 'Europe/Athens', 'Europe/Belgrade', 'Europe/Berlin', 'Europe/Bratislava', 'Europe/Brussels', 'Europe/Bucharest', 'Europe/Budapest', 'Europe/Busingen', 'Europe/Chisinau', 'Europe/Copenhagen', 'Europe/Dublin', 'Europe/Gibraltar', 'Europe/Guernsey', 'Europe/Helsinki', 'Europe/Isle_of_Man', 'Europe/Istanbul', 'Europe/Jersey', 'Europe/Kaliningrad', 'Europe/Kirov', 'Europe/Kyiv', 'Europe/Lisbon', 'Europe/Ljubljana', 'Europe/London', 'Europe/Luxembourg', 'Europe/Madrid', 'Europe/Malta', 'Europe/Mariehamn', 'Europe/Minsk', 'Europe/Monaco', 'Europe/Moscow', 'Europe/Oslo', 'Europe/Paris', 'Europe/Podgorica', 'Europe/Prague', 'Europe/Riga', 'Europe/Rome', 'Europe/Samara', 'Europe/San_Marino', 'Europe/Sarajevo', 'Europe/Saratov', 'Europe/Simferopol', 'Europe/Skopje', 'Europe/Sofia', 'Europe/Stockholm', 'Europe/Tallinn', 'Europe/Tirane', 'Europe/Ulyanovsk', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna', 'Europe/Vilnius', 'Europe/Volgograd', 'Europe/Warsaw', 'Europe/Zagreb', 'Europe/Zurich', 'GMT', 'Indian/Antananarivo', 'Indian/Chagos', 'Indian/Christmas', 'Indian/Cocos', 'Indian/Comoro', 'Indian/Kerguelen', 'Indian/Mahe', 'Indian/Maldives', 'Indian/Mauritius', 'Indian/Mayotte', 'Indian/Reunion', 'Pacific/Apia', 'Pacific/Auckland', 'Pacific/Bougainville', 'Pacific/Chatham', 'Pacific/Chuuk', 'Pacific/Easter', 'Pacific/Efate', 'Pacific/Fakaofo', 'Pacific/Fiji', 'Pacific/Funafuti', 'Pacific/Galapagos', 'Pacific/Gambier', 'Pacific/Guadalcanal', 'Pacific/Guam', 'Pacific/Honolulu', 'Pacific/Kanton', 'Pacific/Kiritimati', 'Pacific/Kosrae', 'Pacific/Kwajalein', 'Pacific/Majuro', 'Pacific/Marquesas', 'Pacific/Midway', 'Pacific/Nauru', 'Pacific/Niue', 'Pacific/Norfolk', 'Pacific/Noumea', 'Pacific/Pago_Pago', 'Pacific/Palau', 'Pacific/Pitcairn', 'Pacific/Pohnpei', 'Pacific/Port_Moresby', 'Pacific/Rarotonga', 'Pacific/Saipan', 'Pacific/Tahiti', 'Pacific/Tarawa', 'Pacific/Tongatapu', 'Pacific/Wake', 'Pacific/Wallis', 'US/Alaska', 'US/Arizona', 'US/Central', 'US/Eastern', 'US/Hawaii', 'US/Mountain', 'US/Pacific', 'UTC'], 'LANGUAGE_CODE': 'ru', 'LANGUAGES': [('en-us', 'Английский'), ('ru', 'Русский')], 'languages': [{'bidi': False, 'code': 'en', 'name': 'English', 'name_local': 'English', 'name_translated': 'Английский'}, {'bidi': False, 'code': 'ru', 'name': 'Russian', 'name_local': 'Русский', 'name_translated': 'Русский'}]}]
+[01/May/2023 14:16:11,676] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[01/May/2023 14:16:13,417] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:17:21,900] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.]
+[01/May/2023 14:17:23,551] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:22:31,844] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:22:32,921] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:23:01,524] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:23:02,506] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:25:07,241] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:25:08,242] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:25:10,084] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:25:11,368] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:26:40,832] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:26:42,081] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:36:29,342] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:36:30,648] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:36:35,046] [ERROR] [log] [[35;1m[35;1mInternal Server Error: /products/index2/[0m[0m]
+Traceback (most recent call last):
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py", line 208, in post
+    return redirect('')
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\Django_project_products\products_django_\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+[01/May/2023 14:42:25,847] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:42:27,273] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:42:30,015] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:42:31,157] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:42:33,816] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:42:34,928] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:42:41,058] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:42:41,974] [INFO] [autoreload] [Watching for file changes with StatReloader]
+[01/May/2023 14:42:54,752] [INFO] [autoreload] [C:\dev\Django_project_products\products_django_\productsweb\simpleapp\views.py changed, reloading.]
+[01/May/2023 14:42:56,032] [INFO] [autoreload] [Watching for file changes with StatReloader]

@@ -1,6 +1,6 @@
 from django.contrib import admin
 from .models import Category, Product
-
+from modeltranslation.admin import TranslationAdmin # импортируем модель амдинки (вспоминаем модуль про переопределение стандартных админ-инструментов)
 
 # все аргументы уже должны быть вам знакомы, самые нужные из них это request — объект хранящий информацию о запросе и queryset —
 # грубо говоря набор объектов, которых мы выделили галочками.
@@ -23,7 +23,16 @@ class ProductAdmin(admin.ModelAdmin):
     actions = [nullfy_quantity]  # добавляем действия в список
 
 
+class CategoryAdmin(TranslationAdmin):
+    model = Category
+
+
+class ProductlAdmin(TranslationAdmin):
+    model = Product
+
 # Register your models here.
 
 admin.site.register(Category)
 admin.site.register(Product, ProductAdmin)
+
+

@@ -2,18 +2,30 @@ from datetime import datetime
 
 from django.core.cache import cache
 from django.urls import reverse_lazy
-from django.http import HttpResponse, HttpResponseRedirect
+from django.http import HttpResponseRedirect
+from django.http.response import HttpResponse
 from django.views.generic import ListView, DetailView, CreateView, UpdateView, DeleteView
 from django.views import View
 from django.contrib.auth.mixins import PermissionRequiredMixin, LoginRequiredMixin
-from .models import Product, Subscription, Category
+from .models import Product, Subscription, Category, Author
 from .filters import ProductFilter
 from .forms import ProductForm
 from django.contrib.auth.decorators import login_required
 from django.db.models import Exists, OuterRef
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.views.decorators.csrf import csrf_protect
 from .tasks import hello, printer
+from django.contrib.auth.models import Group
+from django.db.models import Sum
+import logging
+from django.utils.translation import gettext as _
+from django.utils.translation import activate, get_supported_language_variant
+from django.utils import timezone
+
+import pytz  # импортируем стандартный модуль для работы с часовыми поясами
+
+
+# logger = logging.getLogger('productsweb')
 
 
 def multiply(request):
@@ -30,6 +42,7 @@ def multiply(request):
 
 
 class ProductsList(ListView):
+    # logger.info('Product list view accessed')
     model = Product
     ordering = 'name'
     template_name = 'products.html'
@@ -63,8 +76,9 @@ class ProductDetail(DetailView):
     context_object_name = 'product'
 
     def get_object(self, *args, **kwargs):  # переопределяем метод получения объекта, как ни странно
-        obj = cache.get(f'product-{self.kwargs["pk"]}', None)  # кэш очень похож на словарь, и метод get действует так же.
-                                                            # Он забирает значение по ключу, если его нет, то забирает None.
+        obj = cache.get(f'product-{self.kwargs["pk"]}',
+                        None)  # кэш очень похож на словарь, и метод get действует так же.
+        # Он забирает значение по ключу, если его нет, то забирает None.
 
         # если объекта нет в кэше, то получаем его и записываем в кэш
         if not obj:
@@ -72,7 +86,11 @@ class ProductDetail(DetailView):
             cache.set(f'product-{self.kwargs["pk"]}', obj)
 
         return obj
+
+
 class ProductCreate(PermissionRequiredMixin, CreateView):
+    # logger.info('DEBUG')
+
     permission_required = ('simpleapp.add_product',)
     raise_exception = True
     form_class = ProductForm
@@ -100,15 +118,15 @@ class ProductDelete(PermissionRequiredMixin, DeleteView):
 
 
 # функция создает продукт  == class ProductCreate(CreateView):
-# def create_product(request):
-#     if request.method == 'POST':
-#         form = ProductForm(request.POST)
-#         if form.is_valid():
-#             form.save()
-#             return HttpResponseRedirect('/products/')
-#
-#     form = ProductForm()
-#     return render(request, 'product_edit.html', {'form': form})
+    # def create_product(request):
+    #     if request.method == 'POST':
+    #         form = ProductForm(request.POST)
+    #         if form.is_valid():
+    #             form.save()
+    #             return HttpResponseRedirect('/products/')
+    #
+    #     form = ProductForm()
+    #     return render(request, 'product_edit.html', {'form': form})
 
 
 @login_required
@@ -153,3 +171,38 @@ class IndexView(View):
         printer.delay(10)
         hello.delay()
         return HttpResponse('Hello!')
+
+
+@login_required()
+def upgrade_user(request):
+    user = request.user
+    group = Group.objects.get(name='newuser')
+
+    if not user.groups.filter(name='newuser').exists():
+        group.user_set.add(user)
+        Author.objects.create(authorUser=user)
+    return redirect('product_list')
+
+
+class Index2(View):
+    """ Просто выводит одну строку и переводит на другой язык (gettext - "_") """
+
+    def get(self, request):
+        curent_time = timezone.now()
+        string = _('Hello world')
+
+        models = Product.objects.all()
+
+        context = {
+            'string': string,
+            'models': models,
+            'current_time': timezone.now(),
+            'timezones': pytz.common_timezones,  # добавляем в контекст все доступные часовые пояса
+
+        }
+
+        return HttpResponse(render(request, 'index2.html', context))
+
+    def post(self, request):
+        request.session['django_timezone'] = request.POST['timezone']
+        return redirect(request.META.get('HTTP_REFERER'))

@@ -3,6 +3,8 @@ from django.db import models
 from django.core.validators import MinValueValidator
 from django.urls import reverse
 from django.contrib.auth.models import User
+from django.utils.translation import gettext as _
+from django.utils.translation import pgettext_lazy  # импортируем «ленивый» геттекст с подсказкой
 
 
 # Товар для нашей витрины
@@ -17,6 +19,7 @@ class Product(models.Model):
         to='Category',
         on_delete=models.CASCADE,
         related_name='products',  # все продукты в категории будут доступны через поле products
+        verbose_name=pgettext_lazy('help text for Product model', 'This is the help text'),
     )
     price = models.FloatField(validators=[MinValueValidator(0.0, 'Price should be >= 0.0')])
 
@@ -29,7 +32,7 @@ class Product(models.Model):
         return f'{self.name} {self.quantity}'
 
     def get_absolute_url(self):
-        return reverse('product_detail', args=[str(self.id)])          # == f'/products/{self.id}'
+        return reverse('product_detail', args=[str(self.id)])  # == f'/products/{self.id}'
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)  # сначала вызываем метод родителя, чтобы объект сохранился
@@ -39,7 +42,8 @@ class Product(models.Model):
 # Категория, к которой будет привязываться товар
 class Category(models.Model):
     # названия категорий тоже не должны повторяться
-    name = models.CharField(max_length=100, unique=True)
+    name = models.CharField(max_length=100, unique=True, help_text=_('category name')) # добавим переводящийся текст и
+                                                                                       # подсказку к полю
 
     def __str__(self):
         return f'{self.name}'
@@ -71,3 +75,11 @@ class Subscription(models.Model):
         on_delete=models.CASCADE,
         related_name='subscriptions',
     )
+
+
+class Author(models.Model):
+    authorUser = models.OneToOneField(User, on_delete=models.CASCADE)
+    ratingAuthor = models.SmallIntegerField(default=0)
+
+    def __str__(self):
+        return self.authorUser.username

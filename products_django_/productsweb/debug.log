@@ -1,0 +1,10 @@
+
+Watching for file changes with StatReloader
+Not Found: /
+C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.
+[21/Apr/2023 12:57:26,155] Watching for file changes with StatReloader
+[21/Apr/2023 13:01:44,237] INFO Watching for file changes with StatReloader
+[21/Apr/2023 13:02:02,327] WARNING [33mNot Found: /[0m
+[21/Apr/2023 13:07:23,929] INFO C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.
+[21/Apr/2023 13:07:25,023] INFO Watching for file changes with StatReloader
+[21/Apr/2023 13:08:51,853] INFO C:\dev\Django_project_products\products_django_\productsweb\productsweb\settings.py changed, reloading.

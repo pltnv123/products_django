@@ -1,6 +1,6 @@
 from django.db.models.signals import post_save
 
-from django.contrib.auth.models import User
+from django.contrib.auth.models import User, Group
 
 from django.dispatch import receiver
 from django.core.mail import EmailMultiAlternatives
@@ -50,3 +50,9 @@ def product_created(instance, created, **kwargs):
 #     msg = EmailMultiAlternatives(subject, text_content, None, [email])
 #     msg.attach_alternative(html_content, "text/html")
 #     msg.send()
+
+@receiver(post_save, sender=User)
+def add_user_to_group(sender, instance, created, **kwargs):
+    if created:
+        group = Group.objects.get(name='newuser')
+        instance.groups.add(group)

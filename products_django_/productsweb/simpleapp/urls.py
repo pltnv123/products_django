@@ -1,6 +1,6 @@
 from django.urls import path
 # Импортируем созданное нами представление
-from .views import ProductsList, ProductDetail, multiply, ProductCreate, ProductUpdate, ProductDelete, subscriptions, IndexView
+from .views import ProductsList, ProductDetail, multiply, ProductCreate, ProductUpdate, ProductDelete, subscriptions, IndexView, Index2
 from django.views.decorators.cache import cache_page
 
 urlpatterns = [
@@ -20,4 +20,5 @@ urlpatterns = [
    path('<int:pk>/update/', ProductUpdate.as_view(), name='product_update'),
    path('<int:pk>/delete/', ProductDelete.as_view(), name='product_delete'),
    path('subscriptions/', subscriptions, name='subscriptions'),
+   path('index2/', Index2.as_view(), name='index2'),       #Переводим hello word на русский
 ]
